@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">The Principle of Least Privilege</span>
   <span class="subhead">Instructor Guide</span>
 </h1>
 
