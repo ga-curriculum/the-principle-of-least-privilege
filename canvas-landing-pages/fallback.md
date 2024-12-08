@@ -1,26 +1,21 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">The Principle of Least Privilege</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+## About
+
+This module introduces students to the Principle of Least Privilege through real-world examples and practical applications, focusing on how proper access control can significantly enhance system security. The module breaks down complex security concepts to provide a comprehensive understanding of PoLP implementation.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](../setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](../concepts/README.md)                    | -- | tktk Skills covered.                |
-| [tktk Microlesson Name](../microlesson-01/README.md) | -- | tktk Skills covered.                |
-| **Total content**                                    | -- |                                     |
-
-## Level Up content
-
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [tktk Microlesson Name](../microlesson-02/README.md) | -- | tktk Skills covered. |
-| **Total Level Up content**                           | -- |                      |
+| [Intro to Principle of Least Privilege](../intro-to-principle-of-least-privilege/README.md) | 10 min | Foundations of the principle of least privilege philosophy               |
+| [Implementing Principle of Least Privilege](../implementing-principle-of-least-privilege/README.md) | 10 min | Tips and tricks on how to implement the principle of least privilege               |
+| [Embracing Principle of Least Privilege](../embracing-principle-of-least-privilege/README.md) | 10 min | Common challenges and key takeaways                |
+| **Total content**                                   | 30 min |                                     |
 
 ## References
 
