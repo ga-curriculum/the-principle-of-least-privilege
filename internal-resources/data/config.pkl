@@ -24,13 +24,10 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.setup
-      mls.concepts
-      mls.microlesson01
+      mls.introToPrincipleOfLeastPrivilege
+      mls.implementingPrincipleOfLeastPrivilege
+      mls.embracingPrincipleOfLeastPrivilege
       // You can make course-specific adjustments using a syntax like this:
-      (mls.microlesson02) {
-        type = "Level Up content"
-      }
     }
   }
 }
