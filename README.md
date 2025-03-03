@@ -28,8 +28,8 @@ This module introduces students to the Principle of Least Privilege through real
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/principle-of-least-privilege/canvas-landing-pages/itb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/principle-of-least-privilege/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/the-principle-of-least-privilege/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/the-principle-of-least-privilege/canvas-landing-pages/fallback.html)
 
 ### Resources
 

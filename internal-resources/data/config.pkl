@@ -14,7 +14,7 @@ repo {
   // This name is shown in the header nav to navigate users home
   friendlyName = "The Principle of Least Privilege"
   // This must match the repo name as it appears on GitHub exactly
-  name = "principle-of-least-privilege"
+  name = "the-principle-of-least-privilege"
   type = "Lesson"
 }
 
