@@ -21,13 +21,22 @@ repo {
 courses {
   new {
     // Do not remove this fallback course!
+    name = "itb"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.introToThePrincipleOfLeastPrivilege
+      mls.implementingThePrincipleOfLeastPrivilege
+      mls.embracingThePrincipleOfLeastPrivilege
+    }
+  }
+  new {
+    // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.introToPrincipleOfLeastPrivilege
-      mls.implementingPrincipleOfLeastPrivilege
-      mls.embracingPrincipleOfLeastPrivilege
-      // You can make course-specific adjustments using a syntax like this:
+      mls.introToThePrincipleOfLeastPrivilege
+      mls.implementingThePrincipleOfLeastPrivilege
+      mls.embracingThePrincipleOfLeastPrivilege
     }
   }
 }

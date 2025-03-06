@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
           "friendlyName": "Intro to the Principle of Least Privilege",
-          "dirName": "intro-to-principle-of-least-privilege",
+          "dirName": "intro-to-the-principle-of-least-privilege",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -31,7 +31,7 @@
         },
         {
           "friendlyName": "Implementing the Principle of Least Privilege",
-          "dirName": "implementing-principle-of-least-privilege",
+          "dirName": "implementing-the-principle-of-least-privilege",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -41,7 +41,66 @@
         },
         {
           "friendlyName": "Embracing the Principle of Least Privilege",
-          "dirName": "embracing-principle-of-least-privilege",
+          "dirName": "embracing-the-principle-of-least-privilege",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "fallback",
+      "courseAcronym": "",
+      "courseFullName": "",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Intro to the Principle of Least Privilege",
+          "dirName": "intro-to-the-principle-of-least-privilege",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Implementing the Principle of Least Privilege",
+          "dirName": "implementing-the-principle-of-least-privilege",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Embracing the Principle of Least Privilege",
+          "dirName": "embracing-the-principle-of-least-privilege",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

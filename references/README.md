@@ -5,6 +5,4 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
+- [Infosecurity Magazine - Tesla: Insiders Responsible For Major Data Breach](https://www.infosecurity-magazine.com/news/tesla-insiders-responsible-for/) 
