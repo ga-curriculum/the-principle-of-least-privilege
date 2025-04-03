@@ -20,8 +20,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Intro to the Principle of Least Privilege",
-          "dirName": "intro-to-the-principle-of-least-privilege",
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -79,8 +79,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Intro to the Principle of Least Privilege",
-          "dirName": "intro-to-the-principle-of-least-privilege",
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

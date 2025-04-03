@@ -2,9 +2,9 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-introToThePrincipleOfLeastPrivilege = new Template.Microlesson {
-  friendlyName = "Intro to the Principle of Least Privilege"
-  dirName = "intro-to-the-principle-of-least-privilege"
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
   type = "Content"
   videoUrl = ""
 }

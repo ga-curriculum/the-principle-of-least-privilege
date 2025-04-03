@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">The Principle of Least Privilege</span>
-  <span class="subhead">Intro to Principle of Least Privilege</span>
+  <span class="subhead">Concepts</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to explain the principle of least privilege and what happens when it isn't implemented correctly.
@@ -29,8 +29,8 @@ The principle of least privilege is built on several key components:
 
 - **Authentication**: Ensure that users are who they claim to be before granting access. Imagine authentication as a security guard checking IDs at the entrance. Only verified individuals are allowed in.
 - **Authorization**: Determine what actions authenticated users are allowed to perform. Think of authorization as assigning different access levels to employees based on their roles. For example, a manager might have access to more areas than an intern.
-- **User Permissions**: Defines what actions users can perform. Consider user permissions as setting specific rules for what each user can do within the system.
-- **Access Control**: Manages how permissions are granted. Think of access control as the process of distributing keys to different doors based on the user's role and needs.
+- **User permissions**: Defines what actions users can perform. Consider user permissions as setting specific rules for what each user can do within the system.
+- **Access control**: Manages how permissions are granted. Think of access control as the process of distributing keys to different doors based on the user's role and needs.
 - **Duration**: Specifies how long permissions are valid. Imagine duration as a temporary pass that expires after a certain period, ensuring that access is not indefinite.
 - **Context**: Determines when an individual can use their permissions. Consider context as setting conditions under which access is granted, such as time of day or location.
 

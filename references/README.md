@@ -5,4 +5,4 @@
 
 ## Lesson references
 
-- [Infosecurity Magazine - Tesla: Insiders Responsible For Major Data Breach](https://www.infosecurity-magazine.com/news/tesla-insiders-responsible-for/) 
+- [Infosecurity Magazine - Tesla: Insiders Responsible For Major Data Breach](https://www.infosecurity-magazine.com/news/tesla-insiders-responsible-for/)
